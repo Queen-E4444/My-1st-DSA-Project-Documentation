@@ -23,5 +23,11 @@ in the initial phase of the Data Cleaning and prepaations, the following action 
 4. Feature Engineering(created field such as Discounted Price and Estimated Revenue)
 5. Outlier Detection
 6. Dashboard Preparation
+### Analysis
+[Amazon Review Analysis Report.xlsx](https://github.com/user-attachments/files/21079214/Amazon.Review.Analysis.Report.xlsx)
 
+[Amazon Dashboard Template.xlsx](https://github.com/user-attachments/files/21079219/Amazon.Dashboard.Template.xlsx)
 
+[Amazon Dashboard Populated.xlsx](https://github.com/user-attachments/files/21079220/Amazon.Dashboard.Populated.xlsx)
+
+[Amazon Insights Presentation With Charts.pptx](https://github.com/user-attachments/files/21079221/Amazon.Insights.Presentation.With.Charts.pptx)
