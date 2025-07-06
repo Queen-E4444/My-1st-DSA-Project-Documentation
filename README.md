@@ -16,7 +16,7 @@ The primary source of data used here is sourced from <DSA Capstone Project mater
      2. Data Munching
 - Ms Powerpoint (for presentation with charts)
 ### Data Cleaning and Preparation 
-in the initial phase of the Data Cleaning and prepaations, the following action was perform;
+in the initial phase of the Data Cleaning and prepations, the following action was perform;
 1. Data loading and inspection (Standardardization)
 2. Missing values handling
 3. Data type conversion
